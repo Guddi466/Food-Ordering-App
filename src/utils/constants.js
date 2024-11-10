@@ -1,0 +1,2 @@
+export const CDN_URL = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";
+export const LOGO_URL = "https://static.vecteezy.com/system/resources/previews/002/196/355/large_2x/pizzeria-fast-food-logo-or-label-menu-design-for-cafe-and-restaurant-free-illustration-free-vector.jpg";
