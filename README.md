@@ -3,7 +3,7 @@ Hello React!!
 # Food Ordering template
 /*
 *Header
-* - LOGO
+* - order LOGO 
 * - NAV Items
 *Body
 * - Search
